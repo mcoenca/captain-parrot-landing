@@ -1,11 +1,36 @@
-button#cta-button {
-	background-color:#18B2D2;
-}
-
 nav #nav-logo {
 	max-height: 50px;
 }
 
 nav .nav-button a {
 	background-color: #18B2D2;
+	border-radius: 20px !important;
+}
+
+#mc_embed_signup {
+	clear:left; 
+	width:100%;
+}
+
+#mce-EMAIL {
+	border: none;
+	border-radius: 20px;
+	width: 250px;
+	color:#333;
+	font-weight: 600;
+	font-size: 1.4rem;
+}
+
+#mc-embedded-subscribe {
+	background-color:#18B2D2;
+	font-family: 'Montserrat';
+	color:white;
+	font-weight: 500;
+	letter-spacing: 0.1em;
+	border: none;
+	border-radius: 20px;
+}
+
+#mc_embed_signup_scroll * {
+	display: inline-block;
 }
