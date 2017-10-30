@@ -1,0 +1,11 @@
+button#cta-button {
+	background-color:#18B2D2;
+}
+
+nav #nav-logo {
+	max-height: 50px;
+}
+
+nav .nav-button a {
+	background-color: #18B2D2;
+}
